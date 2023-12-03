@@ -1,0 +1,9 @@
+Playlist:
+(1) "Apache" - The Shadows
+(2) "Jessica" - The Allman Brothers Band
+(3) "Eruption" - Van Halen
+(4) "The Great Gig in the Sky" - Pink Floyd
+(5) "YYZ" - Rush
+(6) "Moby Dick" - Led Zeppelin
+(7) "Orion" - Metallica
+(8) "Green Onions" - Booker T. & the M.G.'s
